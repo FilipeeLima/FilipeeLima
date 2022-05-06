@@ -1,9 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+![fail](https://user-images.githubusercontent.com/103767262/167189391-8146c94b-dae8-4d25-ab2c-e25f7625035d.gif)
+
 
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,Sou o Filipe </h1>
-<h3 align="center">Estudando Front-end</h3>
-
-
+<h3 align="center">Estudando Front-end
+</h3>
 
 ## 🚀 Languages and Tools: 
 
