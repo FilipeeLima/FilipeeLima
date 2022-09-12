@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,Sou o Filipe </h1>
-<h3 align="center">Estudando Front-end
+<h3 align="center">Desenvolvedor Front-end
 </h3>
 
 ## 🚀 Languages and Tools: 
