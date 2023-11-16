@@ -11,14 +11,11 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipeeLima&layout=compact)](https://github.com/FilipeeLima/github-readme-stats)
-  <a href="https://github.com/FilipeeLima/github-readme-stats"><img alt="Filipee Lima Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeeLima&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
+
 <br/>
 
 <a href="https://github.com/FilipeeLima/github-readme-activity-graph"><img alt="Filipee Lima Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FilipeeLima&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
