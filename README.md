@@ -10,17 +10,16 @@
 </p>
  <div align="center">
     <img align="center" height="300" width="600"src="https://i.pinimg.com/originals/77/93/d5/7793d5791d611e8a619a2a37bd5c4c29.gif"/><br>
-   <em>Hey, chin up. I know the night just got darker, but it won't last forever</em>
+   <em>"You can't be a bad man and expect good things to happen to you."</em>
   </div>
   
-  ##
+ 
 
 
-<a href="https://github.com/FilipeeLima/github-readme-activity-graph"><img alt="Filipee Lima Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FilipeeLima&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipeelima&show_icons=true&locale=en&layout=compact" alt="filipeelima" /></p>
+
 <a href = "https://www.linkedin.com/in/filipe-lima-/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
