@@ -29,3 +29,7 @@
     <img src="https://komarev.com/ghpvc/?username=FilipeeLima">
 </a>
 <a href="https://github.com/FilipeeLima?tab=followers"><img src="https://img.shields.io/github/followers/FilipeeLima?label=Followers&style=social" alt="GitHub Badge"></a>
+
+ <div align="center">
+  <img align="center"src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling" />
+</div>
