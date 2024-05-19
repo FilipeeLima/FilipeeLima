@@ -8,15 +8,13 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Filipee Lima streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FilipeeLima&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+ <div align="center">
+    <img align="center" height="300" width="600"src="https://i.pinimg.com/originals/77/93/d5/7793d5791d611e8a619a2a37bd5c4c29.gif"/><br>
+   <em>Hey, chin up. I know the night just got darker, but it won't last forever</em>
+  </div>
+  
+  ##
 
-## 📊 My Github Stats
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-
-<br/>
 
 <a href="https://github.com/FilipeeLima/github-readme-activity-graph"><img alt="Filipee Lima Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FilipeeLima&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
